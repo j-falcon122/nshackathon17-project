@@ -120,6 +120,19 @@ function html5blank_styles()
 
     wp_register_style('html5blank', get_template_directory_uri() . '/style.css', array(), '1.0', 'all');
     wp_enqueue_style('html5blank'); // Enqueue it!
+    
+
+    wp_register_style('forum', get_template_directory_uri() . '/css/forum.css', array(), '1.0', 'all');
+    wp_enqueue_style('forum'); // Enqueue it!
+    
+
+    wp_register_style('home', get_template_directory_uri() . '/css/home.css', array(), '1.0', 'all');
+    wp_enqueue_style('home'); // Enqueue it!
+    
+
+    wp_register_style('layout', get_template_directory_uri() . '/css/layout.css', array(), '1.0', 'all');
+    wp_enqueue_style('layout'); // Enqueue it!
+
 }
 
 // Register HTML5 Blank Navigation

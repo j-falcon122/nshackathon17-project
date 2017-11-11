@@ -33,7 +33,13 @@
 
                 <!-- nav -->
                 <nav class="nav" role="navigation">
-                    
+                    <ul>
+                        <li><a href="http://localhost/nshackathon17-project/">Home</a></li>
+                        <li><a href="#best-practices">Best Practices</a></li>
+                        <li><a href="#mentorships">Mentorships</a></li>
+                        <li><a href="#outreach">Outreach</a></li>
+                        <li><a href="http://localhost/nshackathon17-project/forums/">Forum</a></li>
+                    </ul>
                 </nav>
                 <!-- /nav -->
 
