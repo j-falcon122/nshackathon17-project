@@ -6,7 +6,13 @@
 <body>
 <h1>Business Finder</h1>
 <nav>
-<h4>Resources</h4>
+<h4>Resources and Funding</h4>
+<p> Here are some links that will help entrepreneurs find resources and funding for their business needs:</p>
+<ul>
+	<li><a href="http://www.nyssbdc.org/services/women_minority.html">Minority and Women Entrepreneurs</a>
+	<li><a href="http://www.accounting.com/resources/small-business">Small Business Administration</a>
+	<li><a href="https://www.kabbage.com/blog/benefits-of-being-a-minority-owned-business">Benefits of Owning a Minority Business</a>
+	<li><a href="https://www.nerdwallet.com/blog/small-business/small-business-grants-minorities">Small Business Grants</a>
 
 <h4>Best Practices</h4>
 <p>What Is a Best Practice?
@@ -39,11 +45,17 @@ Big businesses have used best practice benchmarking over decades and realized bi
 
 
 <h4>Outreach</h4>
-<p> Work with schools, NGO's (non-governmental organizations), team up with other businesses</p>
+<h5>Work with Schools</h5>
+<p>Approach a school and offer it something that their funding typically won’t cover. It’s a win-win for them, so they’ll rarely decline the offer. What’s in it for you? Schools encompass the entire community. Students connect you to families and families connect you to neighborhoods. At the local level, this is even more effective than social media marketing.</p>
+
+<h5>NGO's(non-governmental organizations)</h5>
+<p>Just like schools, NGOs are often short on funding and open to mutually beneficial partnerships. By offering them products or services in exchange for positive publicity, you’ll build a respected brand image and foster highly profitable relationships. Host a fundraising event for an NGO and you could get your brand’s name on their staff’s shirts and caps, your logo on their marketing materials, etc.</p>
+
+<h5>Team up with other businesses</h5>
+<p>Pool your efforts with other local businesses. Put on a free event for the public or table at an annual event that attracts high numbers. The more you collaborate with other business owners, the more you get your bran’s name out there. And you mind find business partners for other co-marketing efforts in the future too.</p>
 
 <h4>Funding</h4>
 </nav>
-<aside>Categories</aside>
 
 
 <div id="map" style="width:400px;height:400px;background:yellow"></div>
